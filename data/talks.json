@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the evolution of JavaScript frameworks and what's next."
+  },
+  {
+    "title": "CSS Grid and Flexbox: A New Era of Layout",
+    "speakers": ["John Smith"],
+    "category": ["CSS", "Web Design"],
+    "duration": 60,
+    "description": "Mastering modern CSS layout techniques with Grid and Flexbox."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["Emily White", "Chris Green"],
+    "category": ["Node.js", "API", "Backend"],
+    "duration": 60,
+    "description": "Best practices for designing and building robust and scalable APIs."
+  },
+  {
+    "title": "State Management in Modern Web Apps",
+    "speakers": ["Michael Black"],
+    "category": ["JavaScript", "State Management"],
+    "duration": 60,
+    "description": "A comparative analysis of different state management libraries."
+  },
+  {
+    "title": "The Rise of Serverless Architectures",
+    "speakers": ["Jessica Blue"],
+    "category": ["Serverless", "Cloud", "Architecture"],
+    "duration": 60,
+    "description": "Exploring the benefits and challenges of serverless computing."
+  },
+  {
+    "title": "WebAssembly: The Next Frontier",
+    "speakers": ["David Brown", "Sarah Purple"],
+    "category": ["WebAssembly", "Performance"],
+    "duration": 60,
+    "description": "An introduction to WebAssembly and its potential to revolutionize web development."
+  }
+]

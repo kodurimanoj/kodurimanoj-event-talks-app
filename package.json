@@ -1,0 +1,22 @@
+{
+  "name": "event-talks-app",
+  "version": "1.0.0",
+  "description": "A single-page website for a 1-day event filled with technical talks.",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "python3 -m http.server -d dist"
+  },
+  "keywords": [
+    "event",
+    "talks",
+    "schedule",
+    "website",
+    "nodejs",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "kodurimanoj",
+  "license": "MIT"
+}
